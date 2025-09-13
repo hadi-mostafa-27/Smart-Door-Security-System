@@ -85,16 +85,4 @@ open_door command via MQTT.
 Manual Override: Upon receiving the MQTT command, the ESP8266 activates a green LED and waits for the button to be pressed. Pressing the button then opens the door.
 
 
-Project Structure
-arduino-code/: Contains the ESP8266 code.
 
-python-code/: Contains the Python script for face recognition.
-
-images/: Stores images, including hadi.jpg for face recognition.
-
-documentation/: The project report.
-
-Authors
-Hadi Mostafa (202303776) 
-
-Ahmad Qasem (202303622) 
